@@ -1,0 +1,15 @@
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\bin\Debug\app_taller.exe.config
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\bin\Debug\app_taller.exe
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\bin\Debug\app_taller.pdb
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\bin\Debug\EntityFramework.dll
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\bin\Debug\EntityFramework.xml
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\obj\Debug\app_taller.csproj.AssemblyReference.cache
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\obj\Debug\app_taller.Form1.resources
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\obj\Debug\app_taller.Properties.Resources.resources
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\obj\Debug\app_taller.csproj.GenerateResource.cache
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\obj\Debug\app_taller.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\obj\Debug\app_taller.csproj.CopyComplete
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\obj\Debug\app_taller.exe
+C:\Users\Cesar Martinez\source\repos\app_taller\app_taller\obj\Debug\app_taller.pdb
